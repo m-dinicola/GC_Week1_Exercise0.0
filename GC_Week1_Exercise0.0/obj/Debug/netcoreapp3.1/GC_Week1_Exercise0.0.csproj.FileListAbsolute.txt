@@ -1,0 +1,13 @@
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\bin\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.exe
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\bin\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.deps.json
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\bin\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.runtimeconfig.json
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\bin\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.runtimeconfig.dev.json
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\bin\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.dll
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\bin\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.pdb
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\obj\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.csprojAssemblyReference.cache
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\obj\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.AssemblyInfoInputs.cache
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\obj\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.AssemblyInfo.cs
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\obj\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.csproj.CoreCompileInputs.cache
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\obj\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.dll
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\obj\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.pdb
+U:\Mario\source\repos\GC_Week1_Exercise0.0\GC_Week1_Exercise0.0\obj\Debug\netcoreapp3.1\GC_Week1_Exercise0.0.genruntimeconfig.cache
